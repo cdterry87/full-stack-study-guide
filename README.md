@@ -17,6 +17,10 @@
 
 ---
 
+- [My Real World Examples](EXAMPLES.md)
+
+---
+
 ### Overview
 
 ## 🏗️ Backend Architecture (PHP/Laravel)
